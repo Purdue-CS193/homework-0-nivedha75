@@ -1,3 +1,12 @@
+# Nivedha Kumar's Website
+
+## What I love about CS 193:
+
+- Hanging out with my CS friends in the class
+- listening to Bay Area jokes (I'm from the Bay Area)
+- learning about terminal and github
+- :)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
